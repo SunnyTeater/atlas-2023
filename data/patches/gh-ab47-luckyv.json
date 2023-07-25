@@ -1,0 +1,35 @@
+{
+	"id": 2670,
+	"name": "LuckyV",
+	"description": "A German Hardcore Roleplay Server",
+	"links": {
+		"website": [
+			"https://luckyv.de"
+		],
+		"discord": [
+			"3nDEVdG"
+		]
+	},
+	"path": {
+		"227-237": [
+			[
+				-1355,
+				802
+			],
+			[
+				-1336,
+				852
+			],
+			[
+				-1308,
+				802
+			]
+		]
+	},
+	"center": {
+		"227-237": [
+			-1334,
+			817
+		]
+	}
+}
